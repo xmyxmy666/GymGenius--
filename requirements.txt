@@ -1,0 +1,8 @@
+Flask
+SQLAlchemy
+PyMySQL
+Streamlit
+MediaPipe
+OpenCV
+Pyttsx3
+Aiohttp
